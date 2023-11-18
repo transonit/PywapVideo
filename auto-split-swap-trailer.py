@@ -2,6 +2,7 @@ import subprocess
 import glob
 import os
 
+#Created by Son Tran
 def split_and_swap_video():
     # Find the source video file in the current directory with .mp4 or .mov extension
     video_files = glob.glob('./*.mp4') + glob.glob('./*.mov')
