@@ -8,4 +8,4 @@ Then run:
 python auto-split-swap-trailer.py
 ```
 
-The program will automatically split and swap videos.
+The program will automatically split and swap video.
