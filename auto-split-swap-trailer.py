@@ -56,4 +56,3 @@ def split_and_swap_video():
 
 # Example usage
 split_and_swap_video()
-
